@@ -1,0 +1,4 @@
+# wrangler.toml
+name = "my-cloudflare-app"
+main = "functions/_worker.py" # This path is conventional for Cloudflare Pages Functions
+compatibility_date = "2025-08-26"
